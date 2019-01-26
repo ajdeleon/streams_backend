@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "Test Stream",
+      "description": "This is a test stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Another stream",
+      "id": 2
+    },
+    {
+      "title": "This should have ID",
+      "description": "From the google auth flow",
+      "userId": "103489075382329396171",
+      "id": 3
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "this is strange",
+      "userId": "103489075382329396171",
+      "id": 4
+    },
+    {
+      "title": "testing programmatic nav with edit page",
+      "description": "should go to stream list",
+      "id": 5
+    },
+    {
+      "title": "testing refactor with edit",
+      "description": "hello hello",
+      "userId": "103489075382329396171",
+      "id": 6
+    }
+  ]
+}
